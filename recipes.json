@@ -1,0 +1,290 @@
+[
+  {
+    "id": 1,
+    "title": "Classic Spaghetti Carbonara",
+    "description": "A traditional Italian pasta dish made with eggs, hard cheese, cured pork, and black pepper.",
+    "prepTime": 20,
+    "category": "dinner",
+    "image": "/images/image.png",
+    "ingredients": [
+      "200g spaghetti",
+      "100g pancetta or guanciale",
+      "2 large eggs",
+      "50g Pecorino Romano cheese",
+      "Black pepper"
+    ],
+    "instructions": [
+      "Cook spaghetti according to package directions.",
+      "In a separate pan, crisp up the pancetta.",
+      "In a bowl, whisk eggs with cheese and black pepper.",
+      "Drain pasta, reserving some pasta water. Add pasta to the pan with pancetta. Stir well.",
+      "Remove from heat and quickly pour the egg mixture over the pasta, stirring vigorously to create a creamy sauce. Add pasta water as needed.",
+      "Serve immediately with extra cheese and pepper."
+    ]
+  },
+  {
+    "id": 2,
+    "title": "French Toast",
+    "description": "A sweet and comforting breakfast made with bread soaked in a milky egg mixture and fried.",
+    "prepTime": 15,
+    "category": "breakfast",
+    "image": "/images/french-toast-recipe.jpg",
+
+    "ingredients": [
+      "4 slices of bread",
+      "2 large eggs",
+      "1/2 cup milk",
+      "1 tbsp sugar",
+      "1/2 tsp vanilla extract",
+      "Pinch of cinnamon",
+      "Butter for frying"
+    ],
+    "instructions": [
+      "Whisk eggs, milk, sugar, vanilla, and cinnamon in a shallow dish.",
+      "Dip each slice of bread into the mixture, ensuring both sides are coated.",
+      "Melt butter in a skillet over medium heat.",
+      "Cook bread slices for 2-3 minutes per side, until golden brown.",
+      "Serve warm with syrup, fruit, or powdered sugar."
+    ]
+  },
+  {
+    "id": 3,
+    "title": "Fresh Garden Salad",
+    "description": "A light and healthy salad with crisp lettuce, fresh vegetables, and a simple vinaigrette.",
+    "prepTime": 10,
+    "category": "lunch",
+     "image": "/images/salad.jpeg",
+    "ingredients": [
+      "1 head of lettuce",
+      "1 cucumber",
+      "2 tomatoes",
+      "1 bell pepper",
+      "Red onion",
+      "For dressing: olive oil, vinegar, salt, pepper"
+    ],
+    "instructions": [
+      "Wash and chop all vegetables.",
+      "Toss the chopped vegetables in a large bowl.",
+      "In a small bowl, whisk together the dressing ingredients.",
+      "Pour dressing over the salad and toss to coat.",
+      "Serve immediately."
+    ]
+  },
+  {
+    "id": 4,
+    "title": "Chocolate Chip Cookies",
+    "description": "A timeless classic! Soft, chewy cookies with melted chocolate chips in every bite.",
+    "prepTime": 30,
+    "category": "dessert",
+     "image": "/images/cookies.jpeg",
+    "ingredients": [
+      "1 cup all-purpose flour",
+      "1/2 cup butter, softened",
+      "1/4 cup granulated sugar",
+      "1/2 cup brown sugar",
+      "1 large egg",
+      "1/2 tsp baking soda",
+      "1 cup chocolate chips"
+    ],
+    "instructions": [
+      "Preheat oven to 375°F (190°C).",
+      "In a bowl, cream together butter and sugars.",
+      "Beat in the egg and vanilla extract.",
+      "In a separate bowl, whisk together flour, baking soda, and salt.",
+      "Gradually add dry ingredients to wet ingredients.",
+      "Stir in chocolate chips.",
+      "Drop rounded tablespoons of dough onto baking sheets.",
+      "Bake for 9-11 minutes, or until edges are golden brown."
+    ]
+  },
+  {
+    "id": 5,
+    "title": "Creamy Tomato Soup",
+    "description": "A comforting and smooth tomato soup, perfect for a cold day.",
+    "prepTime": 25,
+    "category": "lunch",
+    "image": "/images/Creamy-Tomato-Soup.jpg",
+    "ingredients": [
+      "1 onion, chopped",
+      "2 cloves garlic, minced",
+      "2 cans (14.5 oz) diced tomatoes",
+      "4 cups vegetable broth",
+      "1/2 cup heavy cream",
+      "Salt and pepper to taste"
+    ],
+    "instructions": [
+      "In a large pot, sauté onion and garlic until soft.",
+      "Add diced tomatoes and vegetable broth. Bring to a boil, then reduce heat and simmer for 15 minutes.",
+      "Use an immersion blender to puree the soup until smooth.",
+      "Stir in heavy cream and season with salt and pepper.",
+      "Serve warm, optionally with croutons or fresh herbs."
+    ]
+  },
+  {
+    "id": 6,
+    "title": "Grilled Salmon with Asparagus",
+    "description": "A simple and healthy dinner that's quick to prepare and packed with flavor.",
+    "prepTime": 25,
+    "category": "dinner",
+    "image": "/images/salmon.webp",
+    "ingredients": [
+      "2 salmon fillets",
+      "1 bunch of asparagus",
+      "2 tbsp olive oil",
+      "1 lemon",
+      "Salt and pepper"
+    ],
+    "instructions": [
+      "Preheat a grill or grill pan to medium-high heat.",
+      "Toss asparagus with 1 tbsp olive oil, salt, and pepper.",
+      "Season salmon fillets with salt and pepper.",
+      "Grill salmon for 4-6 minutes per side, depending on thickness.",
+      "Grill asparagus for 3-5 minutes, until tender-crisp.",
+      "Squeeze fresh lemon juice over the salmon and asparagus before serving."
+    ]
+  },
+  {
+    "id": 7,
+    "title": "Banana Bread",
+    "description": "A moist and delicious bread perfect for breakfast or a snack, a great way to use up overripe bananas.",
+    "prepTime": 60,
+    "category": "dessert",
+    "image": "/images/Vegan-Banana-Bread.jpg",
+    "ingredients": [
+      "3 ripe bananas, mashed",
+      "1/3 cup melted butter",
+      "1 large egg",
+      "1 tsp baking soda",
+      "Pinch of salt",
+      "1 1/2 cups all-purpose flour",
+      "1/2 cup sugar"
+    ],
+    "instructions": [
+      "Preheat oven to 350°F (175°C).",
+      "In a bowl, mix mashed bananas and melted butter.",
+      "Stir in the egg, sugar, and vanilla.",
+      "Sprinkle baking soda and salt over the mixture and mix.",
+      "Stir in the flour until just combined.",
+      "Pour batter into a greased loaf pan.",
+      "Bake for 50-60 minutes, or until a toothpick comes out clean."
+    ]
+  },
+  {
+    "id": 8,
+    "title": "Avocado Toast",
+    "description": "A simple and trendy breakfast or snack with mashed avocado on toasted bread.",
+    "prepTime": 5,
+    "category": "breakfast",
+     "image": "/images/Avacado.jpeg",
+    "ingredients": [
+      "2 slices of bread",
+      "1 ripe avocado",
+      "Salt and pepper",
+      "Red pepper flakes (optional)"
+    ],
+    "instructions": [
+      "Toast the bread to your liking.",
+      "Slice the avocado in half and mash the flesh in a small bowl.",
+      "Spread the mashed avocado evenly on the toast.",
+      "Season with salt, pepper, and red pepper flakes if desired."
+    ]
+  },
+  {
+    "id": 9,
+    "title": "Hearty Lentil Soup",
+    "description": "A satisfying and nutritious soup, packed with lentils and vegetables.",
+    "prepTime": 45,
+    "category": "lunch",
+    "image": "/images/lentil-soup.jpg",
+    "ingredients": [
+      "1 tbsp olive oil",
+      "1 onion, chopped",
+      "2 carrots, chopped",
+      "2 celery stalks, chopped",
+      "3 cloves garlic, minced",
+      "1 cup brown or green lentils, rinsed",
+      "4 cups vegetable broth",
+      "1 bay leaf",
+      "1 can (14.5 oz) diced tomatoes"
+    ],
+    "instructions": [
+      "Heat olive oil in a large pot. Add onion, carrots, and celery and cook until soft.",
+      "Add garlic and cook for another minute.",
+      "Stir in rinsed lentils, vegetable broth, bay leaf, and diced tomatoes.",
+      "Bring to a boil, then reduce heat and simmer for 30-40 minutes, until lentils are tender.",
+      "Remove the bay leaf and season with salt and pepper to taste."
+    ]
+  },
+  {
+    "id": 10,
+    "title": "Beef Stir-Fry",
+    "description": "A quick and delicious stir-fry with tender beef and crisp vegetables in a savory sauce.",
+    "prepTime": 25,
+    "category": "dinner",
+    "image": "/images/beef.jpg",
+    "ingredients": [
+      "1 lb beef, thinly sliced",
+      "2 tbsp soy sauce",
+      "1 tbsp cornstarch",
+      "1 tbsp sesame oil",
+      "1 cup broccoli florets",
+      "1 bell pepper, sliced",
+      "1 carrot, sliced"
+    ],
+    "instructions": [
+      "In a bowl, toss sliced beef with 1 tbsp soy sauce and cornstarch. Let sit for 10 minutes.",
+      "Heat sesame oil in a large skillet or wok over high heat.",
+      "Add beef and stir-fry until browned. Remove from skillet.",
+      "Add vegetables to the skillet and stir-fry until tender-crisp.",
+      "Return beef to the skillet. Pour in remaining soy sauce and stir to coat.",
+      "Serve hot over rice."
+    ]
+  },
+  {
+    "id": 11,
+    "title": "Blueberry Muffins",
+    "description": "Classic, fluffy muffins bursting with fresh blueberries.",
+    "prepTime": 35,
+    "category": "breakfast",
+    "image": "/images/blueberry-muffins.webp",
+    "ingredients": [
+      "1 1/2 cups all-purpose flour",
+      "3/4 cup sugar",
+      "1/2 tsp salt",
+      "2 tsp baking powder",
+      "1/3 cup vegetable oil",
+      "1 large egg",
+      "1/3 cup milk",
+      "1 cup fresh or frozen blueberries"
+    ],
+    "instructions": [
+      "Preheat oven to 400°F (200°C) and line a muffin tin.",
+      "In a bowl, whisk together flour, sugar, salt, and baking powder.",
+      "In another bowl, whisk oil, egg, and milk.",
+      "Pour wet ingredients into dry ingredients and mix until just combined.",
+      "Gently fold in blueberries.",
+      "Scoop batter into muffin cups. Bake for 20-25 minutes, until golden brown."
+    ]
+  },
+  {
+    "id": 12,
+    "title": "Lemon Bars",
+    "description": "A zesty and sweet dessert with a buttery shortbread crust and a tangy lemon filling.",
+    "prepTime": 50,
+    "category": "dessert",
+    "image": "/images/Lemon-Bars.jpg",
+
+    "ingredients": [
+      "For crust: 1 cup all-purpose flour, 1/2 cup cold butter, 1/4 cup powdered sugar",
+      "For filling: 1 cup granulated sugar, 2 tbsp all-purpose flour, 1/4 tsp baking powder, 2 large eggs, 1/4 cup lemon juice"
+    ],
+    "instructions": [
+      "Preheat oven to 350°F (175°C).",
+      "For the crust, mix flour and powdered sugar. Cut in cold butter until crumbly. Press into a 9x9 inch pan and bake for 15-20 minutes.",
+      "For the filling, whisk sugar, flour, and baking powder. Add eggs and lemon juice, whisking until smooth.",
+      "Pour filling over the hot crust and bake for 20-25 minutes, until set.",
+      "Let cool completely before dusting with powdered sugar and cutting into bars."
+    ]
+  }
+
+]
